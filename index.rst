@@ -15,6 +15,7 @@ Contents:
    clinic2
    clinic3
    clinic4
+   clinic5
 
 Indices and tables
 ==================
